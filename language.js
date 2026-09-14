@@ -132,7 +132,7 @@
     });
   }
   function setText(sel, value) { var el=document.querySelector(sel); if (el) el.textContent=value; }
-  function pageKey() { var p=location.pathname.replace(/\/$/,''); var parts=p.split('/').filter(Boolean); return parts.length ? parts[parts.length-1] : 'home'; }
+  function pageKey() { var p=location.pathname.replace(/\/$/,''); var parts=p.split('/').filter(Boolean); if(!parts.length || parts[parts.length-1]==='sharaf-shipping-agency-yanbu') return 'home'; return parts[parts.length-1]; }
   function renderService(key) {
     var d=services[key], prose=document.querySelector('.prose'); if (!d || !prose) return;
     var figure=prose.querySelector('figure');
