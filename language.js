@@ -102,7 +102,7 @@
     ['ميل بحري','nautical miles'], ['كثافة المياه','Water density'], ['مياه بحر','seawater'], ['مكتبين الإقليميين','regional offices'],
     ['مكتب رقم','Office'], ['مكتب ','Office '], ['الدور الثاني','Second floor'], ['الدور الرابع','Fourth floor'], ['الدور الخامس','Fifth floor'], ['جناح','Suite'],
     ['مبنى','Building'], ['شارع','Street'], ['طريق','Road'], ['ص.ب','P.O. Box'], ['الطابق','Floor'], ['الهيئة الملكية بينبع','Royal Commission for Yanbu'],
-    ['حي','District'], ['بجوار','next to'], ['تقاطع','intersection of'], ['الرؤية','Vision'], ['الرسالة','Mission'],
+    ['بجوار','next to'], ['تقاطع','intersection of'], ['الرؤية','Vision'], ['الرسالة','Mission'],
     ['الدمام','Dammam'], ['جدة','Jeddah'], ['الرياض','Riyadh'], ['ينبع','Yanbu'], ['جازان','Jazan'], ['رابغ','Rabigh'], ['الجبيل','Jubail'], ['رأس تنورة','Ras Tanura'], ['رأس الخفجي','Ras Al Khafji'], ['رأس الخير','Ras Al Khair'],
     ['الموقع الرسمي','Official website'], ['الموقع','Location'], ['مشغّل المحطة','Terminal operator']
   ];
