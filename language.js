@@ -96,7 +96,7 @@
   var serviceNames = {'خدمات الناقلات':'Tanker Services','خدمات البضائع السائبة':'Dry Bulk Services','خدمات الخطوط الملاحية المنتظمة':'Liner Services','خدمات سفن الدحرجة':'Ro-Ro Services','البضائع العامة':'General Cargo','بضائع المشاريع':'Project Cargo','الخدمات البحرية البعيدة عن الشاطئ':'Offshore Services','الشحن والتخليص':'Freight Forwarding','الخدمات اللوجستية':'Logistics Services','التخزين':'Warehousing'};
   var regionNames = {'الكل':'all','الإقليمي':'regional','الشرقية':'eastern','الغربية':'western'};
   var phrases = [
-    ['إجمالي الأرصفة','Total berths'], ['عوّامة رسو مفردة','Single buoy mooring'], ['عوّامة الممر الملاحي','Fairway buoy'], ['عوّامة الاقتراب','Approach buoy'],
+    ['إجمالي الأرصفة','Total berths'], ['عوّامة رسو مفردة','Single buoy mooring'], ['عوّامة الممر الملاحي','Fairway buoy'], ['عوّامة الاقتراب','Approach buoy'], ['1 إلى 1.5 م','1 to 1.5 m'], ['،',','],
     ['غير متوفر','Not available'], ['على مدار الساعة طوال أيام السنة، رهناً بالرؤية والأحوال الجوية','24/7, subject to visibility and weather conditions'], ['على مدار الساعة','24/7'],
     ['القطاع الخاص','private sector'], ['الوردية الأولى','First shift'], ['الوردية الثانية','Second shift'], ['ساعة تشغيل','operating hours'],
     ['ميل بحري','nautical miles'], ['كثافة المياه','Water density'], ['مياه بحر','seawater'], ['مكتبين الإقليميين','regional offices'],
