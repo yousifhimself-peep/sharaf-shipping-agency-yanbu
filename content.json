@@ -1,0 +1,933 @@
+{
+  "generatedAt": "2026-09-11T13:10:23.636Z",
+  "lead": {
+    "companyName": "Sharaf Shipping Agency Co.Ltd - Yanbu",
+    "arabicName": "",
+    "websiteUrl": "http://www.sharafshippingksa.com/",
+    "phone": "+966143933286",
+    "city": "Yanbu",
+    "industry": "خدمات لوجستية",
+    "googleMapsRating": 4.6,
+    "email": "info@ssajeddah.com"
+  },
+  "audit": {
+    "url": "http://www.sharafshippingksa.com/",
+    "loadTimeMs": 8857,
+    "ttfbMs": 383,
+    "mobileResponsive": false,
+    "hasArabicSupport": true,
+    "rtlProperlyConfigured": false,
+    "sslValid": false,
+    "fontIssues": false,
+    "legacyTechDetected": [],
+    "redesignOpportunityScore": 85,
+    "issuesList": [
+      "المحتوى يتجاوز عرض شاشة الجوال بنحو 3px.",
+      "المحتوى العربي ظاهر باتجاه LTR بدل RTL.",
+      "زمن التحميل 8.9 ث، أعلى من الحد المستهدف 3.5 ث.",
+      "شهادة SSL مفقودة أو غير صالحة أو لا يتم التحويل إلى HTTPS."
+    ],
+    "screenshots": {
+      "desktopPath": "/Users/yousif/ksa-redesign-engine/reports/screenshots/sharafshippingksa.com-41db0e7f-desktop.png",
+      "mobilePath": "/Users/yousif/ksa-redesign-engine/reports/screenshots/sharafshippingksa.com-41db0e7f-mobile.png"
+    }
+  },
+  "sourceSite": {
+    "rootUrl": "http://www.sharafshippingksa.com/",
+    "discoveredUrlCount": 19,
+    "scannedPageCount": 8,
+    "crawlNotes": []
+  },
+  "pages": [
+    {
+      "url": "http://www.sharafshippingksa.com/",
+      "path": "/",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | Previous Next1234567 HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us Contact Us Sharaf Shipping Agency Co. Ltd2nd Floor, Suite A22, Luluwa BuildingKing Abdul Aziz Street, Al AmamrahPO Box 6553, Dammam 31492Kingdom of Saudi Arabia +966 13 8352293 / 94 / 95 +966 13 8353699 info@ssadammam.com Sharaf Shipping Agency Co. LtdJeddah Gate Building E9, 5th Floor,Office 503, Al Fayha’a,King Abdullah Rd, Emaar Square,Jeddah 22241, Saudi Arabia +966 12 6532926 / 6532901 / 65",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Homepage / primary conversion page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/",
+      "path": "/",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:13 PM Previous Next1234567 HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us Contact Us Sharaf Shipping Agency Co. Ltd2nd Floor, Suite A22, Luluwa BuildingKing Abdul Aziz Street, Al AmamrahPO Box 6553, Dammam 31492Kingdom of Saudi Arabia +966 13 8352293 / 94 / 95 +966 13 8353699 info@ssadammam.com Sharaf Shipping Agency Co. LtdJeddah Gate Building E9, 5th Floor,Office 503, Al Fayha’a,King Abdullah Rd, Emaar Square,Jeddah 22241, Saudi Arabia +966 12 6532926 / 6",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Homepage / primary conversion page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/careers",
+      "path": "/careers",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Existing page - preserve content and improve hierarchy",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/company-profile",
+      "path": "/company-profile",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "ABOUT US",
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:15 PM HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us ABOUT US MISSION AND VISION COMPANY PROFILE We at Sharaf Shipping Agency, Saudi Arabia are committed towards ensuring customers’ needs for quality shipping, logistics and marine services are understood and administered. With continuous expansion of the Sharaf Group, SSA Saudi Arabia was established in 2007. Our services have evolved with time and besides Ship Agency Service we have ventured into Freight F",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Trust and company story page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/contact-us",
+      "path": "/contact-us",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Contact and conversion page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/glossary-of-terms",
+      "path": "/glossary-of-terms",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Existing page - preserve content and improve hierarchy",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/mission-vision",
+      "path": "/mission-vision",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "ABOUT US",
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:14 PM HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us ABOUT US MISSION AND VISION COMPANY PROFILE Vision With commitment to long term business relationships our vision is to be a regional market leader through delivering our promise and beyond, by surpassing the expectations of our customers and associates. Mission Sharaf Shipping Agency, Saudi Arabia is a service provider delivering combined services to the Shipping, Logistics and Marine markets at the high",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Existing page - preserve content and improve hierarchy",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/network",
+      "path": "/network",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Existing page - preserve content and improve hierarchy",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/port-info",
+      "path": "/port-info",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Existing page - preserve content and improve hierarchy",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/dry-bulk-services",
+      "path": "/services-details/dry-bulk-services",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/freight-forwarding",
+      "path": "/services-details/freight-forwarding",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "Freight Forwarding",
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:21 PM HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services Freight Forwarding We at Sharaf Shipping cater to freight forwarding services, whether Port to Port or Door to Door, for Sea, Air and Road including FCL & LCL for global trade lanes. We use the extent of our strong network for optimization of your",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/storage/services/January2023/xcIWF8k4Xn8260IQBeyA.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/general-cargo",
+      "path": "/services-details/general-cargo",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/liner-services",
+      "path": "/services-details/liner-services",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/logistics-services",
+      "path": "/services-details/logistics-services",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "LOGISTICS SERVICES",
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:20 PM HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services LOGISTICS SERVICES We are centered with Reliability and Timeliness through our logistics services and offer end to end solutions. Embracing services of Consolidation/Deconsolidation, Warehousing, Distribution and Clearance, up to Management of you",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/storage/services/January2023/HTuo53wVkYW8K5DbOHfE.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/offshore-services",
+      "path": "/services-details/offshore-services",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/projects-cargo",
+      "path": "/services-details/projects-cargo",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "Projects Cargo",
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:18 PM HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services Projects Cargo We at Sharaf Shipping understand that importance of every piece of equipment in your Project. A chain is as weak as its weakest link and therefore we want to ensure that every equipment of your Project is handled with care. Whether ",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/storage/services/January2023/GrezBcLkHcDjUoD022xs.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/ro-ro-services",
+      "path": "/services-details/ro-ro-services",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/tanker-services",
+      "path": "/services-details/tanker-services",
+      "title": "",
+      "description": "",
+      "headings": [],
+      "navigationLabels": [],
+      "textExcerpt": "",
+      "images": [],
+      "scanned": false,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    },
+    {
+      "url": "https://sharafshippingksa.com/services-details/warehousing",
+      "path": "/services-details/warehousing",
+      "title": "Sharaf Shipping Company Ltd, Saudi Arabia - Glossary of Terms",
+      "description": "",
+      "headings": [
+        "Warehousing",
+        "Contact Us",
+        "Quick Contact"
+      ],
+      "navigationLabels": [
+        "HOME",
+        "About Us",
+        "Mission and Vision",
+        "Company Profile",
+        "Services",
+        "Warehousing",
+        "Projects Cargo",
+        "LOGISTICS SERVICES",
+        "Freight Forwarding",
+        "Offshore Services",
+        "Liner Services",
+        "Ro Ro Services",
+        "General Cargo",
+        "Tanker Services",
+        "Dry Bulk Services",
+        "PORT Info",
+        "Other Info",
+        "Network",
+        "Careers",
+        "Contact us"
+      ],
+      "textExcerpt": "11 Sep 2026 | 4:10:17 PM HOME About Us Mission and Vision Company Profile Services Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services PORT Info Other Info Network Careers Contact us Warehousing Projects Cargo LOGISTICS SERVICES Freight Forwarding Offshore Services Liner Services Ro Ro Services General Cargo Tanker Services Dry Bulk Services Warehousing Our round the clock warehousing services supports the upstream and downstream chain by offering safe and secure space whether it is FMCG, General Retail Merchandise, Electronics, Automotive or Engineering precision parts. This has empo",
+      "images": [
+        {
+          "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": true
+        },
+        {
+          "src": "https://sharafshippingksa.com/storage/services/January2023/vFKxSserRuJ190FcqKpD.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/l.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/t.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/f.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        },
+        {
+          "src": "https://sharafshippingksa.com/assets/images/m.png",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "isLogoCandidate": false
+        }
+      ],
+      "scanned": true,
+      "recommendedRole": "Services overview page",
+      "preserveContent": true
+    }
+  ],
+  "images": [
+    {
+      "src": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": true
+    },
+    {
+      "src": "https://sharafshippingksa.com/assets/images/l.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/assets/images/t.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/assets/images/f.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/assets/images/m.png",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/storage/services/January2023/xcIWF8k4Xn8260IQBeyA.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/storage/services/January2023/HTuo53wVkYW8K5DbOHfE.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/storage/services/January2023/GrezBcLkHcDjUoD022xs.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    },
+    {
+      "src": "https://sharafshippingksa.com/storage/services/January2023/vFKxSserRuJ190FcqKpD.jpg",
+      "alt": "",
+      "width": null,
+      "height": null,
+      "isLogoCandidate": false
+    }
+  ],
+  "brandTheme": {
+    "logoUrl": "https://sharafshippingksa.com/assets/images/saudi_logo.png",
+    "source": "fallback",
+    "primary": "#1D5F73",
+    "deep": "#103540",
+    "accent": "#538595",
+    "surface": "#F7F8F6",
+    "ink": "#172027",
+    "usageNotes": [
+      "Use the primary color for key actions, active navigation, and selected states - not as a full-page background.",
+      "Use the deep tone for navigation, footer, and high-contrast sections.",
+      "Reserve the accent for proof points, small highlights, and conversion cues.",
+      "Keep neutral surfaces dominant so the redesign feels premium and content-led."
+    ]
+  },
+  "designSystem": {
+    "typography": {
+      "arabic": "Readex Pro",
+      "latin": "Inter",
+      "bodyLineHeight": 1.8
+    },
+    "layout": {
+      "maxWidth": "1200px",
+      "grid": "12-column desktop / 4-column mobile",
+      "spacing": "8px base rhythm",
+      "radius": "10-16px restrained radius"
+    },
+    "principles": [
+      "Content-first hierarchy: the company story and proof stay more prominent than decorative effects.",
+      "Neutral surfaces dominate; logo colors guide actions and emphasis rather than filling every section.",
+      "Every section has a clear job, a readable heading, and an intentional mobile composition.",
+      "Use real images with consistent aspect ratios and purposeful captions instead of generic stock or AI art.",
+      "Animation is subtle and functional: feedback, reveal, and navigation only."
+    ]
+  },
+  "recommendations": [
+    "Preserve the existing Sharaf Shipping Agency Co.Ltd - Yanbu content, page intent, and media assets while rebuilding the visual system and responsive layout.",
+    "Keep every discovered page path as a first-class route; add 301 redirects only when a page is intentionally consolidated.",
+    "Use real project, team, facility, and certification imagery from the source site; optimize it to WebP/AVIF with descriptive Arabic and English alt text.",
+    "Create a restrained logo-led theme using neutral surfaces plus primary/deep/accent roles. Avoid applying the logo color to every section.",
+    "Use a deliberate Arabic/English type system with real RTL layout, balanced line lengths, and language-aware navigation rather than translated copy pasted into an LTR shell.",
+    "Design the hero around one clear conversion action, then support it with proof: capabilities, sectors, projects, certifications, and contact options.",
+    "Target a sub-1.2 second landing-page load on Saudi mobile networks by reducing JavaScript, preloading the hero image, and serving responsive image sizes.",
+    "Prioritize the mobile rebuild first: remove horizontal overflow, simplify dense sections, and keep a persistent tap-to-contact action.",
+    "Add a true Arabic experience with RTL-aware spacing, navigation, forms, metadata, and mirrored directional icons.",
+    "Resolve HTTPS and certificate issues before launch so forms and trust signals are reliable."
+  ],
+  "parityChecklist": [
+    "Every discovered route has a matching new route or an approved 301 redirect.",
+    "All current text, service details, contact details, certifications, and proof points are present.",
+    "Every source image is either reused with permission or replaced with an approved equivalent.",
+    "Arabic and English metadata, headings, alt text, and forms are present and directionally correct.",
+    "Primary CTAs, phone numbers, WhatsApp links, forms, and tracking events work on mobile.",
+    "The new site passes desktop/mobile overflow, accessibility, SSL, and performance checks."
+  ],
+  "implementationOrder": [
+    "Lock content inventory, page map, logo assets, and approved imagery.",
+    "Set the typography, color tokens, spacing, grid, buttons, and navigation components.",
+    "Rebuild the homepage and mobile conversion path first.",
+    "Migrate services, projects/products, company, and contact pages without changing their intent.",
+    "Add Arabic/English parity, metadata, schema, redirects, analytics, and form integrations.",
+    "Run content-parity QA, responsive QA, and a final Playwright audit before launch."
+  ],
+  "reportPath": "/Users/yousif/ksa-redesign-engine/reports/blueprints/Sharaf-Shipping-Agency-Co.Ltd---Yanbu-blueprint.html"
+}
