@@ -78,5 +78,6 @@ function run(){var v=(q.value||'').trim().toLowerCase();var n=0;
 items.forEach(function(i){var ok=!v||i.dataset.k.indexOf(v)>-1;i.hidden=!ok;if(ok)n++;});
 c.textContent=n+' / '+items.length;e.hidden=n!==0;}
 q.addEventListener('input',run);var p0=new URLSearchParams(location.search).get('q');if(p0){q.value=p0;}run();})();</script>
+<script src="../language.js"></script>
 </body>
 </html>

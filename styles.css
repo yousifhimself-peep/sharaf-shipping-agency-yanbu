@@ -395,3 +395,25 @@ section[id]{scroll-margin-top:6.5rem}
 
 /* إن لم تعمل النصوص البرمجية إطلاقًا، يجب ألا يبقى المحتوى مخفيًا */
 @media (scripting: none){[data-rise]{opacity:1 !important;transform:none !important}}
+
+/* --------------------------------------------------------- language switch */
+.lang-toggle{min-height:44px;min-width:88px;white-space:nowrap;font-size:.78rem;letter-spacing:.01em}
+body.lang-en{font-family:Inter,"Segoe UI",Arial,sans-serif;direction:ltr}
+body.lang-en .head-strip,body.lang-en .head-main,body.lang-en .phead,body.lang-en .sec,body.lang-en .foot{direction:ltr}
+body.lang-en .head-strip,body.lang-en .head-main{ text-align:left }
+body.lang-en .nav{direction:ltr}
+body.lang-en .hero::after{background:linear-gradient(to right,rgba(12,32,39,.94) 10%,rgba(12,32,39,.62) 55%,rgba(12,32,39,.2) 90%)}
+body.lang-en .hero-copy,body.lang-en .lead-in,body.lang-en .prose{text-align:left}
+body.lang-en .eyebrow{flex-direction:row}
+body.lang-en .eyebrow::before{order:0}
+body.lang-en .port-btn{text-align:left;border-inline-start:3px solid transparent;border-inline-end:0}
+body.lang-en .port-btn:hover,body.lang-en .port-btn[aria-selected="true"]{border-inline-start-color:var(--cyan)}
+body.lang-en .office::after{inset-inline-start:0}
+body.lang-en .spec-row dd,body.lang-en .frow dd,body.lang-en .sumrow b{text-align:left}
+body.lang-en .crumb{direction:ltr}
+body.lang-en .sidecard h3,body.lang-en .foot h4{letter-spacing:.04em}
+body.lang-en .field input,body.lang-en .field select,body.lang-en .field textarea{direction:ltr;text-align:left}
+body.lang-en .gterm b,body.lang-en .gterm i,body.lang-en .gterm p{direction:ltr;text-align:left}
+body.lang-en .gterm i{font-style:normal;font-weight:600;color:var(--cyan-deep)}
+body.lang-en .mark span,body.lang-en .mark b{direction:ltr}
+body.lang-en .mono{direction:ltr;text-align:left}

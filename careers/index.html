@@ -86,5 +86,6 @@
 b.addEventListener('click',function(){var o=b.getAttribute('aria-expanded')==='true';b.setAttribute('aria-expanded',String(!o));n.setAttribute('data-open',String(!o));b.textContent=!o?'إغلاق':'القائمة';});
 Array.prototype.forEach.call(n.querySelectorAll('a'),function(a){a.addEventListener('click',function(){b.setAttribute('aria-expanded','false');n.setAttribute('data-open','false');b.textContent='القائمة';});});})();
 </script>
+<script src="../language.js"></script>
 </body>
 </html>

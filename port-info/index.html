@@ -83,5 +83,6 @@ function render(i){var p=window.__PORTS[i];
 btns.forEach(function(b){b.addEventListener('click',function(){render(+b.dataset.i);});});
 var q=new URLSearchParams(location.search).get('p');render(q!==null&&window.__PORTS[+q]?+q:0);})();
 </script>
+<script src="../language.js"></script>
 </body>
 </html>
